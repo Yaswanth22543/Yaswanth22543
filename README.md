@@ -1,6 +1,6 @@
 # Hey 👋, I'm  P.Yaswanth!
 
-[![Linkdin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viswasai-goudampally)
+[![Linkdin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/puttepuyaswanth)
 
 ## Welcome, it's great to have you here! 👽
 
@@ -90,7 +90,7 @@ I am a recent graduate of BSCG anf to further enhance my skills i joined Post Gr
 <a href="https://www.linkedin.com/in/puttepuyaswanth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="P.Yaswanth" height="30" width="40" /></a>
 <a href="[https://www.kaggle.com/yaswanthputtepu](https://www.kaggle.com/yaswanthputtepu)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="P.Yaswanth" height="30" width="40" /></a>
 <a href="https://medium.com/@yaswanthhputtepu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eswaraditya63" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/yaswanthhputtepu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eswaraditya63" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/yaswanthhputtepu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yaswanthhputtepu height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
